@@ -1,4 +1,4 @@
-# Virtual Industry Visit GNIT Computer Application Department
+# Recent Industry Trends in IT Industry -- BBIT -- B.Tech
 
 ## Date: 17/06/2021 - Webinar - Developing Node JS in AWS Cloud
 
