@@ -25,3 +25,8 @@
 - https://aws.amazon.com/
 - https://cloud.google.com/
 
+## You may reach out to me on
+
+- [LinkedIn](https://www.linkedin.com/in/roysaibal/)
+- [Twitter](https://twitter.com/SaibalRoy_21)
+- [Github](https://github.com/saibal-roy)
